@@ -12,9 +12,6 @@
 - In Section E, some indexes of good and bad images were chosen manually after testing. These indexes would be reset if the jupyter notbook is run from first again. Hence it is suggested to look at this section's output first, before trying to re-run the cells from first.
 
 
-Authors:
-
-Babu Aman Rai Saxena
 
 
 
