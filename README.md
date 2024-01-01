@@ -7,9 +7,10 @@
 
 - Note that an empty folder "models" should be present in this directory for the model training to occur.
 
+
 - In Section E, some indexes of good and bad images were chosen manually after testing. These indexes would be reset if the jupyter notbook is run from first again. Hence it is suggested to look at this section's output first, before trying to re-run the cells from first.
 
-![Report (1)_page-0001](https://github.com/amanrai1234/U_NET_SEGMENTATION/assets/37281887/a169fc9f-4128-4d35-bb96-90bd0e558f11)
+![Report (1)_page-0001](https://github.com/amanrai1234/U_NET_SEGMENTATION/assets/37281887/b52f1c43-3e78-4068-a572-f5532f91cf7b)
 ![Report (1)_page-0002](https://github.com/amanrai1234/U_NET_SEGMENTATION/assets/37281887/3ee2ebaa-e140-4a73-8bfe-350096357405)
 ![Report (1)_page-0003](https://github.com/amanrai1234/U_NET_SEGMENTATION/assets/37281887/46abb66c-de0e-4225-aaac-7fb333f8547c)
 ![Report (1)_page-0004](https://github.com/amanrai1234/U_NET_SEGMENTATION/assets/37281887/6218ddc3-83c5-4647-b14e-032166da5ae2)
